@@ -1,5 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
+package others;
 
 public class Box<T> {
     private T t;
@@ -23,7 +22,7 @@ public class Box<T> {
 //        IntegerBox.set(1);
 //        System.out.println(IntegerBox.get());
 //
-//        Box<String> StringBox = new Box<>();
+//        others.Box<String> StringBox = new others.Box<>();
 //        StringBox.set("String box");
 //        System.out.println(StringBox.get());
     }

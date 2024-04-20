@@ -1,3 +1,5 @@
+package others;
+
 import java.util.ArrayList;
 
 public class Jsonify <K, V> implements JsonElement<K, V>{

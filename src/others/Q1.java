@@ -1,4 +1,4 @@
-import java.util.List;
+package others;
 
 public class Q1 {
     static <T> void f(Object o) {
@@ -27,7 +27,7 @@ public class Q1 {
 //    }
 
 //    public static void main(String[] args) {
-//        Q1 q = new Q1();
+//        others.Q1 q = new others.Q1();
 //        q.method();
 //    }
 }
